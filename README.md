@@ -1,5 +1,8 @@
 ![Header](https://drive.google.com/file/d/19Dd-aAWv0VYW_nq77m-0kYR1MbnCQQMm/view?usp=sharing)
-### Hi there 👋 I am Rahul yadav
+### Hello 👋 I am Rahul yadav
+
+![xbox](https://user-images.githubusercontent.com/12250862/152804645-93a44b06-1f21-4f4c-8c0e-09659671eb3e.jpeg)
+
 
 | Project  | Description |
 | ------------- | ------------- |
@@ -9,9 +12,9 @@
 | Lunar Lander  | A 2D sidescroller physics based game  |
 | Tic-Tac-Toe  | Classic Tic-Tac-Toe game  |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=X3lnThpi)](https://github.com/X3lnThpi/github-readme-stats)
+[!X3lnThpi's GitHub stats](https://github-readme-stats.vercel.app/api?username=X3lnThpi)](https://github.com/X3lnThpi/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 <!--
 **X3lnThpi/X3lnThPi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
