@@ -13,7 +13,7 @@ I have worked on the following projects
 | Lunar Lander  | A 2D sidescroller physics based game  |
 | Tic-Tac-Toe  | Classic Tic-Tac-Toe game  |
 
-[!X3lnThpi's GitHub stats](https://github-readme-stats.vercel.app/api?username=X3lnThpi)](https://github.com/X3lnThpi/github-readme-stats)
+[![X3lnThpi's GitHub stats](https://github-readme-stats.vercel.app/api?username=X3lnThpi)](https://github.com/X3lnThpi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X3lnThpi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
