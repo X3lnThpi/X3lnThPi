@@ -1,9 +1,10 @@
-![Header](https://drive.google.com/file/d/19Dd-aAWv0VYW_nq77m-0kYR1MbnCQQMm/view?usp=sharing)
+![xbox](https://user-images.githubusercontent.com/12250862/152804645-93a44b06-1f21-4f4c-8c0e-09659671eb3e.jpeg)
 ### Hello 👋 I am Rahul yadav
 
-![xbox](https://user-images.githubusercontent.com/12250862/152804645-93a44b06-1f21-4f4c-8c0e-09659671eb3e.jpeg)
+I am Game developer from India. I like to make games.
 
-
+#### Projects I have worked on
+I have worked on the following projects
 | Project  | Description |
 | ------------- | ------------- |
 | Blink Game | Game jam project, basic stealth game with teleporting ability like Dishonored Game  |
