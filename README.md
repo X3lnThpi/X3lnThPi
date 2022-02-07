@@ -9,6 +9,8 @@
 | Lunar Lander  | A 2D sidescroller physics based game  |
 | Tic-Tac-Toe  | Classic Tic-Tac-Toe game  |
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=X3lnThpi)](https://github.com/X3lnThpi/github-readme-stats)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 <!--
 **X3lnThpi/X3lnThPi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
